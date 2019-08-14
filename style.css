@@ -13,6 +13,7 @@ h1 {
 #featured-property p {
   color: blue;
   width: 800px;
+  text-align: center;
 }
 
 nav {
