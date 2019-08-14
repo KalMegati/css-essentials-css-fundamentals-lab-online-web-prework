@@ -6,7 +6,9 @@ h1 {
   text-align: center;
 }
 
-
+nav a {
+  padding: 10px;
+}
 
 body {
   width: 100%;
