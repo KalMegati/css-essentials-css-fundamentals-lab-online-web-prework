@@ -9,7 +9,7 @@ h1 {
 nav a {
   padding-left: 10px;
   padding-right:10px;
-  text-align: right;
+  background: grey;
 }
 
 body {
